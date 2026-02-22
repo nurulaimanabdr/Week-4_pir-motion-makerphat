@@ -17,3 +17,7 @@ This project uses:
 ## Run
 
 sudo python3 motion_detection.py
+
+## Wiring Diagram
+
+![PIR Wiring Diagram](wiring_diagram.png.png)
